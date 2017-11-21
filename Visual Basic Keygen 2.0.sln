@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Basic Express 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Visual Basic Keygen 2.0", "Visual Basic Keygen 2.0\Visual Basic Keygen 2.0.vbproj", "{79D092F9-9D34-4054-A6C5-5B223A9F0C24}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{79D092F9-9D34-4054-A6C5-5B223A9F0C24}.Debug|x86.ActiveCfg = Debug|x86
+		{79D092F9-9D34-4054-A6C5-5B223A9F0C24}.Debug|x86.Build.0 = Debug|x86
+		{79D092F9-9D34-4054-A6C5-5B223A9F0C24}.Release|x86.ActiveCfg = Release|x86
+		{79D092F9-9D34-4054-A6C5-5B223A9F0C24}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

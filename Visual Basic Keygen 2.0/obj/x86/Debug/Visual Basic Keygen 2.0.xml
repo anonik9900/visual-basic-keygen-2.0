@@ -1,0 +1,44 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+VisualBasicKeygen2.0
+</name>
+</assembly>
+<members>
+<member name="P:Visual_Basic_Keygen_2._0.My.Resources.Resources.ResourceManager">
+	<summary>
+  Restituisce l'istanza di ResourceManager nella cache utilizzata da questa classe.
+</summary>
+</member><member name="P:Visual_Basic_Keygen_2._0.My.Resources.Resources.Culture">
+	<summary>
+  Esegue l'override della proprietà CurrentUICulture del thread corrente per tutte le
+  ricerche di risorse eseguite utilizzando questa classe di risorse fortemente tipizzata.
+</summary>
+</member><member name="P:Visual_Basic_Keygen_2._0.My.Resources.Resources.f9e757ae0caabac39c10866e0cdef728">
+	<summary>
+  Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Visual_Basic_Keygen_2._0.My.Resources.Resources.prova2">
+	<summary>
+  Cerca una risorsa localizzata di tipo System.IO.UnmanagedMemoryStream simile a System.IO.MemoryStream.
+</summary>
+</member><member name="P:Visual_Basic_Keygen_2._0.My.Resources.Resources.prova3">
+	<summary>
+  Cerca una risorsa localizzata di tipo System.IO.UnmanagedMemoryStream simile a System.IO.MemoryStream.
+</summary>
+</member><member name="P:Visual_Basic_Keygen_2._0.My.Resources.Resources.prova4">
+	<summary>
+  Cerca una risorsa localizzata di tipo System.IO.UnmanagedMemoryStream simile a System.IO.MemoryStream.
+</summary>
+</member><member name="P:Visual_Basic_Keygen_2._0.My.Resources.Resources.SkrillexS">
+	<summary>
+  Cerca una risorsa localizzata di tipo System.IO.UnmanagedMemoryStream simile a System.IO.MemoryStream.
+</summary>
+</member><member name="T:Visual_Basic_Keygen_2._0.My.Resources.Resources">
+	<summary>
+  Classe di risorse fortemente tipizzata per la ricerca di stringhe localizzate e così via.
+</summary>
+</member>
+</members>
+</doc>
